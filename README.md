@@ -1,140 +1,115 @@
-<h1 align="center">Hi 👋, I'm Madhura Malap</h1>
-
-<h3 align="center">
-🤖 AI & Machine Learning Enthusiast • 💻 Future Software Engineer • 🚀 Building One Project At A Time
-</h3>
+<h1 align="center">Hello, I'm Madhura Malap 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Aspiring+Software+Engineer;Always+Learning+Something+New+✨" alt="Typing SVG" />
+Computer Science Engineering Student • AI & Machine Learning Enthusiast • Aspiring Software Engineer
 </p>
 
 ---
 
-## 🌷 About Me
+### 🌷 About Me
 
-🎓 3rd Year Computer Science Engineering Student
+I'm a Computer Science Engineering student passionate about building intelligent systems and solving real-world problems through technology.
 
-🤖 Passionate about Artificial Intelligence & Machine Learning
+My interests lie in Artificial Intelligence, Machine Learning, Software Development, and Data Structures & Algorithms. I enjoy exploring how software and AI can be used to create impactful solutions that improve everyday experiences.
 
-💡 Love turning ideas into practical projects
-
-📚 Currently learning DSA, Machine Learning and Software Development
-
-🚀 Working towards becoming an AI/ML Engineer
-
-✨ Believer in learning by building
+Currently, I am focused on strengthening my foundations in computer science, developing practical projects, and continuously expanding my technical skill set through hands-on learning and industry-focused programs.
 
 ---
 
-## 💻 Tech Stack
+### 🚀 Featured Projects
 
-### Languages
+#### 🛒 ShopWise AI
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8BB00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+AI-powered shopping recommendation system using NLP, Flask, and custom ranking algorithms.
 
-### Web Development
+#### ✋ Hand Gesture Recognition
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+Computer Vision project achieving high classification accuracy using OpenCV and Machine Learning.
 
-### Tools
+#### 🎯 Real-Time Object Tracking using YOLOv8
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+Object detection and tracking system built using OpenCV and YOLOv8.
+
+#### 🌍 Multilingual Language Translator
+
+Desktop application supporting real-time multilingual translation with an interactive interface.
 
 ---
 
-## 🌱 Currently Learning
+### 🛠️ Skills & Technologies
 
-- Data Structures & Algorithms
-- Machine Learning
-- Deep Learning
-- Software Development
-- System Design Fundamentals
+#### Data Structures & Algorithms
 
----
+• Problem Solving
+• Arrays
+• Linked Lists
+• Stacks
+• Queues
+• Trees
+• Hashing
+• Recursion
+• Searching
+• Sorting
 
-## 🚀 Featured Projects
+#### Programming Languages
 
-### 🛒 ShopWise AI
-AI-powered shopping recommendation system that suggests products based on user preferences.
+• Python
+• Java
+• C++
+• SQL
+• JavaScript
 
-### ✋ Hand Gesture Recognition
-Computer Vision project using OpenCV and Machine Learning to recognize hand gestures.
+#### Web Development
 
-### 📊 Customer Segmentation
-Customer clustering using K-Means to identify different customer groups and behaviors.
+• HTML
+• CSS
+• Flask
 
-### 🍲 Food Calorie Estimator
-Machine Learning project for food image classification and calorie estimation.
+#### AI & Machine Learning
 
-### 🏠 House Price Prediction
-Regression-based ML model that predicts house prices from housing features.
+• NLP
+• Computer Vision
+• Classification
+• Clustering
+• Recommendation Systems
 
-### 🌐 Personal Portfolio
-Responsive portfolio website built using HTML, CSS and JavaScript.
+#### Libraries & Frameworks
 
----
+• Pandas
+• NumPy
+• Scikit-Learn
+• OpenCV
+• Matplotlib
+• CustomTkinter
 
-## 📊 GitHub Analytics
+#### Tools & Platforms
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Madhura-Malap&show_icons=true&theme=tokyonight" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhura-Malap&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Madhura-Malap&theme=tokyonight" />
-</p>
-
----
-
-## 🌸 Fun Facts
-
-☕ Coffee + Coding = Perfect Combo
-
-🎧 Coding with music is therapy
-
-💡 I enjoy transforming ideas into real projects
-
-📚 Always learning something new
-
-✨ Dreaming big, one line of code at a time
+• Git
+• GitHub
+• VS Code
+• Jupyter Notebook
+• Render
 
 ---
 
-## 📫 Connect With Me
+### 🌱 Current Focus
 
-📧 Email: **madhuramalap17@gmail.com**
-
-💼 LinkedIn: *(Add your LinkedIn link here)*
-
-🌐 Portfolio: *(Coming Soon ✨)*
-
----
-
-<p align="center">
-✨ Thanks for visiting my profile ✨
-<br>
-💜 Let's Learn, Build and Grow Together 💜
-</p>
-
-📧 Email: madhuramalap17@gmail.com
-
-💼 LinkedIn: www.linkedin.com/in/madhura-malap
+* Advancing Machine Learning knowledge
+* Improving problem-solving and DSA skills
+* Building production-oriented projects
+* Exploring internship opportunities
+* Growing as a software engineer
 
 ---
 
-<p align="center">
-Always learning • Always building • Always improving
-</p>
+### 📫 Connect With Me
+
+📧 Email: **[madhuramalap17@gmail.com](mailto:madhuramalap17@gmail.com)**
+
+💼 LinkedIn: *[www.linkedin.com/in/madhura-malap](https://www.linkedin.com/in/madhura-malap/)*
+
+🌐 Portfolio: *(Currently upgrading ✨)*
+
+---
+
+✨ Always learning, building, and growing one project at a time.
